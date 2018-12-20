@@ -7,6 +7,9 @@ about: Submit a report of a bug/issue/unexpected behavior/etc
 **Describe the bug**  
 A clear and concise description of what the bug is.
 
+**Applicable Device**
+Does this bug live on the Arduino's section of the code? Raspberry Pi? BBE?
+
 **To Reproduce**  
 Steps to reproduce the behavior:  
 1. Go to '...'

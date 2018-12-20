@@ -1,8 +1,8 @@
 # name
-name: New Repository Documentation
+name: Interface Docs
 
 # description
-description: Documentation site for the new respository.
+description: Documentation site for the interface repo.
 
 # site theme
 theme: jekyll-theme-minimal
