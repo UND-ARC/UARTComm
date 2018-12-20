@@ -7,7 +7,7 @@ void setup() {
 void loop() {
   if (Serial.available()) {
     number = Serial.read();
-    Serial.print("character recieved: ");
+    Serial.print("character received: ");
     Serial.println(number, DEC);
   }
 }
