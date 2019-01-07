@@ -7,15 +7,15 @@ This repository is home to the code responsible for inter-device communications 
 ## Repository Settings
 
 - [x] Add author name and email to `/docs/_config.yml`
-- [ ] Activate the documentation site: **Settings** -> scroll to **Github Pages** -> source: **master branch /docs folder** and **Save**
-- [ ] Enable vulnerability alerts: **Settings** -> scroll to **Data Services** -> check **Vulnerability Alerts**
-- [ ] Add any necessary branch protection rules: **Settings** -> **Branches** -> **Branch Protection Rules**
-  - [ ] Master branch must require:
-    - [ ] Pull request reviews before merging
-    - [ ] Dismiss stale pull request approvals when new commits are pushed
-    - [ ] Require status checks to pass before merging
-    - [ ] Require branches be up to date before merging
-    - [ ] Include administrators
+- [x] Activate the documentation site: **Settings** -> scroll to **Github Pages** -> source: **master branch /docs folder** and **Save**
+- [x] Enable vulnerability alerts: **Settings** -> scroll to **Data Services** -> check **Vulnerability Alerts**
+- [x] Add any necessary branch protection rules: **Settings** -> **Branches** -> **Branch Protection Rules**
+  - [x] Master branch must require:
+    - [x] Pull request reviews before merging
+    - [x] Dismiss stale pull request approvals when new commits are pushed
+    - [x] Require status checks to pass before merging
+    - [x] Require branches be up to date before merging
+    - [x] Include administrators
 
 ## Metadata
 
